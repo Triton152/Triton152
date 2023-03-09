@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Triton152
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on uhmm what does collaborate mean, i am not native english hahhaha
 - 📫 You can reach me on discord Triton_152#8896
 
 <!---
